@@ -1,0 +1,80 @@
+{
+  "apiError": {
+    "apiErrorFallbackMsg": "We've let our engineers know.",
+    "apiErrorText": "Something went wrong!"
+  },
+  "banner": {
+    "primaryButtonDefaultText": "View details"
+  },
+  "calender": {
+    "calenderHeader": {
+      "selectTimezonePlaceholder": "Select Timezone",
+      "todayLabel": "Today"
+    },
+    "employeeDayView": {
+      "allDayEventSlotLabel": "All day",
+      "hiddenEventTitle": "Busy",
+      "recommendedEventTitle": "Recommended time",
+      "todayLabel": "(Today)"
+    }
+  },
+  "Cancel": "Cancel",
+  "card": {
+    "basicCard": {
+      "deleteLabel": "Delete",
+      "editLabel": "Edit"
+    }
+  },
+  "checklist": {
+    "defaultSelectAllText": "Select all"
+  },
+  "Edit": "Edit",
+  "field": {
+    "readMoreText": "Read more..."
+  },
+  "form": {
+    "cancelButtonLabel": "Cancel",
+    "defaultSkipLabel": "Skip",
+    "defaultValidationError": "This field is required",
+    "formEditText": "Edit",
+    "pendingValidationLabel": "Validating",
+    "submitButtonLabel": "Save"
+  },
+  "inputs": {
+    "checkbox": {
+      "noLabel": "No",
+      "yesLabel": "Yes"
+    }
+  },
+  "menuList": {
+    "emptyPlaceHolder": "No action found"
+  },
+  "modal": {
+    "closeButtonLabel": "Cancel"
+  },
+  "page": {
+    "appLogo": {
+      "helpDoc": "Help docs"
+    },
+    "footer": {
+      "continueBtnLabel": "Continue"
+    }
+  },
+  "roleList": {
+    "viewDetails": "View details"
+  },
+  "Save": "Save",
+  "showMore": {
+    "showAll": "Show all",
+    "showLess": "Show less"
+  },
+  "textClip": {
+    "collapseLabel": "Less",
+    "expandLabel": "Expand"
+  },
+  "textSnippet": {
+    "copyActionText": "Copied!",
+    "copyIconTip": "Copy",
+    "downloadIconTip": "Download"
+  }
+}
