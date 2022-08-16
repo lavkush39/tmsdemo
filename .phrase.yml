@@ -1,6 +1,7 @@
 phrase:
   access_token: 4fb8e198a5f4d7a688124dce4a4bc127947cec9a8d9e0459b56314769b9d233e
   project_id: 84b4841a4b8bf1c00e991af3bc280b4d
+  file_format: nested_json
 
   push:
     sources:
