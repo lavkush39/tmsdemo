@@ -1,51 +1,56 @@
 {
   "apiError": {
-    "apiErrorText": "Something went wrong!",
-    "apiErrorFallbackMsg": "We've let our engineers know."
+    "apiErrorFallbackMsg": "We've let our engineers know.",
+    "apiErrorText": "Something went wrong!"
   },
   "banner": {
     "primaryButtonDefaultText": "View details"
   },
   "calender": {
     "calenderHeader": {
-      "todayLabel": "Today",
-      "selectTimezonePlaceholder": "Select Timezone"
+      "selectTimezonePlaceholder": "Select Timezone",
+      "todayLabel": "Today"
     },
     "employeeDayView": {
-      "todayLabel": "(Today)",
       "allDayEventSlotLabel": "All day",
+      "hiddenEventTitle": "Busy",
       "recommendedEventTitle": "Recommended time",
-      "hiddenEventTitle": "Busy"
+      "todayLabel": "(Today)"
     }
   },
+  "Cancel": "Cancel",
   "card": {
     "basicCard": {
-      "editLabel": "Edit",
-      "deleteLabel": "Delete"
+      "deleteLabel": "Delete",
+      "editLabel": "Edit"
     }
   },
   "checklist": {
     "defaultSelectAllText": "Select all"
   },
+  "Edit": "Edit",
   "field": {
     "readMoreText": "Read more..."
   },
   "form": {
-    "defaultValidationError": "This field is required",
-    "submitButtonLabel": "Save",
     "cancelButtonLabel": "Cancel",
     "defaultSkipLabel": "Skip",
+    "defaultValidationError": "This field is required",
+    "formEditText": "Edit",
     "pendingValidationLabel": "Validating",
-    "formEditText": "Edit"
+    "submitButtonLabel": "Save"
   },
   "inputs": {
     "checkbox": {
-      "yesLabel": "Yes",
-      "noLabel": "No"
+      "noLabel": "No",
+      "yesLabel": "Yes"
     }
   },
   "menuList": {
     "emptyPlaceHolder": "No action found"
+  },
+  "modal": {
+    "closeButtonLabel": "Cancel"
   },
   "page": {
     "appLogo": {
@@ -58,23 +63,18 @@
   "roleList": {
     "viewDetails": "View details"
   },
+  "Save": "Save",
   "showMore": {
-    "showLess": "Show less",
-    "showAll": "Show all"
+    "showAll": "Show all",
+    "showLess": "Show less"
   },
   "textClip": {
-    "expandLabel": "Expand",
-    "collapseLabel": "Less"
+    "collapseLabel": "Less",
+    "expandLabel": "Expand"
   },
   "textSnippet": {
+    "copyActionText": "Copied!",
     "copyIconTip": "Copy",
-    "downloadIconTip": "Download",
-    "copyActionText": "Copied!"
-  },
-  "modal": {
-    "closeButtonLabel": "Cancel"
-  },
-  "Cancel": "Cancel",
-  "Edit": "Edit",
-  "Save": "Save"
+    "downloadIconTip": "Download"
+  }
 }
