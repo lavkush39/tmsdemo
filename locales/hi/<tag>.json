@@ -1,0 +1,80 @@
+{
+  "apiError": {
+    "apiErrorFallbackMsg": "हमने अपने इंजीनियरों को बता दिया है।",
+    "apiErrorText": "कुछ गलत हो गया!"
+  },
+  "banner": {
+    "primaryButtonDefaultText": "विवरण देखें"
+  },
+  "calender": {
+    "calenderHeader": {
+      "selectTimezonePlaceholder": "टाइमज़ोन का चयन करें",
+      "todayLabel": "आज"
+    },
+    "employeeDayView": {
+      "allDayEventSlotLabel": "दिन भर",
+      "hiddenEventTitle": "व्यस्त",
+      "recommendedEventTitle": "अनुशंसित समय",
+      "todayLabel": "(आज)"
+    }
+  },
+  "Cancel": "रद्द करना",
+  "card": {
+    "basicCard": {
+      "deleteLabel": "मिटाना",
+      "editLabel": "संपादन करना"
+    }
+  },
+  "checklist": {
+    "defaultSelectAllText": "सभी का चयन करें"
+  },
+  "Edit": "संपादन करना",
+  "field": {
+    "readMoreText": "और पढ़ें..."
+  },
+  "form": {
+    "cancelButtonLabel": "रद्द करना",
+    "defaultSkipLabel": "Skip",
+    "defaultValidationError": "इस फ़ील्ड की आवश्यकता है",
+    "formEditText": "संपादन करना",
+    "pendingValidationLabel": "Validating",
+    "submitButtonLabel": "रक्षा कर"
+  },
+  "inputs": {
+    "checkbox": {
+      "noLabel": "No",
+      "yesLabel": "Yes"
+    }
+  },
+  "menuList": {
+    "emptyPlaceHolder": "No action found"
+  },
+  "modal": {
+    "closeButtonLabel": "रद्द करना"
+  },
+  "page": {
+    "appLogo": {
+      "helpDoc": "Help docs"
+    },
+    "footer": {
+      "continueBtnLabel": "Continue"
+    }
+  },
+  "roleList": {
+    "viewDetails": "विवरण देखें"
+  },
+  "Save": "रक्षा कर",
+  "showMore": {
+    "showAll": "Show all",
+    "showLess": "Show less"
+  },
+  "textClip": {
+    "collapseLabel": "Less",
+    "expandLabel": "Expand"
+  },
+  "textSnippet": {
+    "copyActionText": "Copied!",
+    "copyIconTip": "Copy",
+    "downloadIconTip": "Download"
+  }
+}
