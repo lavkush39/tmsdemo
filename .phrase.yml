@@ -5,14 +5,14 @@ phrase:
 
   push:
     sources:
-    - file: ./locales/**/<tag>.json
+    - file: ./locales/**/one-ui.json
       params:
         file_format: nested_json
         update_translations: false
-        locale_id: 1aef6821b636e2c42946620be82e2572 # the locale must exist remotely
+        locale_id: 1aef6821b636e2c42946620be82e2572 
   pull:
     targets:
-    - file: ./locales/<locale_code>/<tag>.json
+    - file: ./locales/<locale_code>/one-ui.json
     params:
         file_format: nested_json
-        locale_id: 5305703b79ca7d8109184d287c2dc641 # the locale must exist remotely
+        locale_id: 5305703b79ca7d8109184d287c2dc641 
