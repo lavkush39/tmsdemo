@@ -5,7 +5,7 @@ phrase:
 
   push:
     sources:
-    - file: ./locales/**/<tag>.json
+    - file: ./locales/**/*.json
       params:
         file_format: nested_json
         update_translations: false
