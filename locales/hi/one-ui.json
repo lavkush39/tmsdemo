@@ -1,0 +1,77 @@
+{
+  "apiError": {
+    "apiErrorFallbackMsg": "हमने अपने इंजीनियरों को बता दिया है।",
+    "apiErrorText": "कुछ गलत हो गया!"
+  },
+  "banner": {
+    "primaryButtonDefaultText": "विवरण देखें"
+  },
+  "calender": {
+    "calenderHeader": {
+      "selectTimezonePlaceholder": "टाइमज़ोन का चयन करें",
+      "todayLabel": "आज"
+    },
+    "employeeDayView": {
+      "allDayEventSlotLabel": "दिन भर",
+      "hiddenEventTitle": "व्यस्त",
+      "recommendedEventTitle": "अनुशंसित समय",
+      "todayLabel": "(आज)"
+    }
+  },
+  "card": {
+    "basicCard": {
+      "deleteLabel": "हटाएँ",
+      "editLabel": "संपादित"
+    }
+  },
+  "checklist": {
+    "defaultSelectAllText": "सभी का चयन करें"
+  },
+  "field": {
+    "readMoreText": "और पढ़ें..."
+  },
+  "form": {
+    "cancelButtonLabel": "रद्द करना",
+    "defaultSkipLabel": "छोड़",
+    "defaultValidationError": "यह फ़ील्ड आवश्यक है",
+    "formEditText": "संपादित",
+    "pendingValidationLabel": "मान्य",
+    "submitButtonLabel": "सहेजें"
+  },
+  "inputs": {
+    "checkbox": {
+      "noLabel": "नहीं",
+      "yesLabel": "हाँ"
+    }
+  },
+  "menuList": {
+    "emptyPlaceHolder": "कोई कार्रवाई नहीं मिली"
+  },
+  "modal": {
+    "closeButtonLabel": "रद्द करना"
+  },
+  "page": {
+    "appLogo": {
+      "helpDoc": "डॉक्स की मदद करें"
+    },
+    "footer": {
+      "continueBtnLabel": "जारी"
+    }
+  },
+  "roleList": {
+    "viewDetails": "विवरण देखें"
+  },
+  "showMore": {
+    "showAll": "सभी दिखाएँ",
+    "showLess": "कम दिखाएं"
+  },
+  "textClip": {
+    "collapseLabel": "कम",
+    "expandLabel": "विस्तृत"
+  },
+  "textSnippet": {
+    "copyActionText": "प्रतिलिपि!",
+    "copyIconTip": "प्रतिलिपि",
+    "downloadIconTip": "डाउनलोड"
+  }
+}
