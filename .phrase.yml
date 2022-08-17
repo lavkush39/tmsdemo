@@ -18,6 +18,10 @@ phrase:
   pull:
     targets:
     - file: ./locales/<locale_code>/one-ui.json
-    params:
-        file_format: nested_json
-        locale_id: 5305703b79ca7d8109184d287c2dc641 
+      params:
+          file_format: nested_json
+          locale_id: 5305703b79ca7d8109184d287c2dc641 
+    - file: ./locales/<locale_code>/common.json
+      params:
+          file_format: nested_json
+          locale_id: 5305703b79ca7d8109184d287c2dc641 
