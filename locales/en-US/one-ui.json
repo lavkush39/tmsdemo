@@ -73,5 +73,6 @@
   },
   "modal": {
     "closeButtonLabel": "Cancel"
-  }
+  },
+  "common": "From one-ui"
 }
