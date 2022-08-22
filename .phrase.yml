@@ -19,7 +19,7 @@ phrase:
           tags: one-ui
     - file: ./locales/<locale_code>/common.json
       params:
-          file_format: simple_json
+          file_format: nested_json
           locale_id: 5f2d937c11c9e235c0d5ae7e8e19e19d
           tags: common
 
