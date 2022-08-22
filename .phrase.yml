@@ -5,7 +5,12 @@ phrase:
 
   push:
     sources:
-    - file: ./locales/**/<tag>.json
+    - file: ./locales/**/one-ui.json
+      params:
+        file_format: nested_json
+        update_translations: false
+        locale_id: 1aef6821b636e2c42946620be82e2572 
+    - file: ./locales/**/common.json
       params:
         file_format: nested_json
         update_translations: false
