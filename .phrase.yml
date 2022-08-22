@@ -1,18 +1,13 @@
 phrase:
   access_token: 4fb8e198a5f4d7a688124dce4a4bc127947cec9a8d9e0459b56314769b9d233e
   project_id: 84b4841a4b8bf1c00e991af3bc280b4d
-  # file_format: nested_json
+  file_format: nested_json
 
   push:
     sources:
-    - file: ./locales/**/one-ui.json
+    - file: ./locales/**/<tag>.json
       params:
         file_format: nested_json
-        update_translations: false
-        locale_id: 1aef6821b636e2c42946620be82e2572 
-    - file: ./locales/**/common.json
-      params:
-        file_format: simple_json
         update_translations: false
         locale_id: 1aef6821b636e2c42946620be82e2572 
   pull:
@@ -21,10 +16,12 @@ phrase:
       params:
           file_format: nested_json
           locale_id: 5f2d937c11c9e235c0d5ae7e8e19e19d 
+          tags: one-ui
     - file: ./locales/<locale_code>/common.json
       params:
           file_format: simple_json
           locale_id: 5f2d937c11c9e235c0d5ae7e8e19e19d
+          tags: common
 
 
 
